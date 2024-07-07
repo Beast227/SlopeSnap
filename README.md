@@ -2,8 +2,6 @@
 
 SlopeSnap is a powerful and intuitive mobile application developed in Kotlin, designed to report and track landslides across India. The app empowers users to capture and submit landslide reports, which are then verified and displayed on an interactive map.
 
----
-
 ## ✨ Features
 
 - 📸 **Landslide Reporting**: Capture images, add descriptions, and use your current location to report landslides.
@@ -41,13 +39,11 @@ SlopeSnap is a powerful and intuitive mobile application developed in Kotlin, de
 - **Firebase Firestore**: For storing landslide reports.
 - **Google Maps API**: For displaying the interactive map.
 
----
 
 ## 🤝 Contributing
 
 This is repo is not meant for contributing .
 
----
 
 Thank you for using SlopeSnap! Together, we can help make our surroundings safer.
 
