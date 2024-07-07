@@ -12,11 +12,9 @@ SlopeSnap is a powerful and intuitive mobile application developed in Kotlin, de
 - 🌐 **Public Visibility**: Confirmed reports are visible to all users, even without login.
 - 🗺️ **Interactive India Map**: View all confirmed landslides on an interactive map.
 
----
 
 ## 📱 Screenshots
 
----
 
 ## 🛠️ Usage
 
@@ -33,7 +31,6 @@ SlopeSnap is a powerful and intuitive mobile application developed in Kotlin, de
 3. **View Reported Landslides**:
     - View all confirmed landslides on the interactive map without logging in.
 
----
 
 ## 🧰 Technologies Used
 
