@@ -44,6 +44,6 @@ SlopeSnap is a powerful and intuitive mobile application developed in Kotlin, de
 
 This is repo is not meant for contributing .
 
-
+---
 Thank you for using SlopeSnap! Together, we can help make our surroundings safer.
 
