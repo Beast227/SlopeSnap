@@ -1,4 +1,4 @@
-# 🌍 SlopeSnap
+<h1 align='center'> 🌍 SlopeSnap </h1>
 
 SlopeSnap is a powerful and intuitive mobile application developed in Kotlin, designed to report and track landslides across India. The app empowers users to capture and submit landslide reports, which are then verified and displayed on an interactive map.
 
